@@ -7,10 +7,6 @@
  * 1. Navigate to file
  * 2. Type "g++ -std=c++11 hw3.cpp"
  * 3. Type "./a.out"
- *
- * I had help figuring out how to organize my program
- * from Emma Wells in a different 2710 class. I also had 
- * help from the TA with the press_any_key method.
  */
 
 #include <iostream>
