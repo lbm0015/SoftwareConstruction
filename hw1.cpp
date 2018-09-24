@@ -7,9 +7,6 @@
  * 1. Navigate to file
  * 2. Type g++ -std=c++11 hw1.cpp
  * 3. Type ./a.out
- *
- * I used StackOverflow to learn how a generic cin and cout works
- * I spoke with Abhiprai Gulati about how to construct the formula to determine the amount of soda
  */
 
 #include <iostream>
