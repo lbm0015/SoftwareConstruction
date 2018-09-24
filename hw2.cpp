@@ -7,9 +7,6 @@
  * 1. Navigate to file
  * 2. Type "g++ -std=c++11 hw2.cpp"
  * 3. Type "./a.out"
- * 
- * I had help figuring out how to deal with the last payment
- * from Emma Wells in a different 2710 class.
  */
 
 #include <iostream>
